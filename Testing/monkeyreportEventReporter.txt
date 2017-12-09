@@ -1,0 +1,140 @@
+  bash arg: -p
+  bash arg: com.laioffer.eventreporter
+  bash arg: -v
+  bash arg: 500
+:Monkey: seed=1512911324486 count=500
+:AllowPackage: com.laioffer.eventreporter
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: -0.0%
+//   6: 25.0%
+//   7: 15.0%
+//   8: 2.0%
+//   9: 2.0%
+//   10: 1.0%
+//   11: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.laioffer.eventreporter/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.laioffer.eventreporter/.MainActivity } in package com.laioffer.eventreporter
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(830.0,656.0)
+:Sending Touch (ACTION_UP): 0:(873.1506,580.09424)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(244.0,1408.0)
+:Sending Touch (ACTION_UP): 0:(329.11157,1349.9863)
+:Sending Touch (ACTION_DOWN): 0:(332.0,403.0)
+:Sending Touch (ACTION_UP): 0:(358.28604,396.66818)
+:Sending Touch (ACTION_DOWN): 0:(817.0,23.0)
+:Sending Touch (ACTION_UP): 0:(814.9885,2.2263908)
+    //[calendar_time:2017-12-08 21:13:07.448  system_uptime:618211]
+    // Sending event #100
+    //[calendar_time:2017-12-08 21:13:07.450  system_uptime:618212]
+    // Sending event #100
+:Sending Touch (ACTION_DOWN): 0:(279.0,600.0)
+:Sending Touch (ACTION_UP): 0:(282.80356,602.88165)
+:Sending Touch (ACTION_DOWN): 0:(724.0,1595.0)
+:Sending Touch (ACTION_UP): 0:(677.82544,1553.1536)
+:Sending Touch (ACTION_DOWN): 0:(989.0,1660.0)
+:Sending Touch (ACTION_UP): 0:(980.96497,1643.8263)
+:Sending Touch (ACTION_DOWN): 0:(725.0,606.0)
+:Sending Touch (ACTION_UP): 0:(740.1993,610.41583)
+:Sending Touch (ACTION_DOWN): 0:(23.0,454.0)
+:Sending Touch (ACTION_UP): 0:(35.13062,444.11694)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.laioffer.eventreporter/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.laioffer.eventreporter/.MainActivity } in package com.laioffer.eventreporter
+:Sending Touch (ACTION_DOWN): 0:(86.0,154.0)
+:Sending Touch (ACTION_UP): 0:(73.97578,141.20981)
+:Sending Touch (ACTION_DOWN): 0:(1056.0,1106.0)
+:Sending Touch (ACTION_UP): 0:(996.0152,1177.8081)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(898.0,1363.0)
+:Sending Touch (ACTION_UP): 0:(899.3651,1353.4835)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+    //[calendar_time:2017-12-08 21:13:08.337  system_uptime:619099]
+    // Sending event #200
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(806.0,493.0)
+:Sending Touch (ACTION_UP): 0:(804.8961,480.65445)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(165.0,1283.0)
+:Sending Touch (ACTION_UP): 0:(161.87216,1280.342)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.laioffer.eventreporter/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.laioffer.eventreporter/.MainActivity } in package com.laioffer.eventreporter
+:Sending Touch (ACTION_DOWN): 0:(676.0,1000.0)
+:Sending Touch (ACTION_UP): 0:(690.0564,997.667)
+:Sending Touch (ACTION_DOWN): 0:(962.0,872.0)
+:Sending Touch (ACTION_UP): 0:(968.218,866.9977)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.laioffer.eventreporter/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.laioffer.eventreporter/.MainActivity } in package com.laioffer.eventreporter
+:Sending Touch (ACTION_DOWN): 0:(737.0,1447.0)
+:Sending Touch (ACTION_UP): 0:(730.70123,1449.3145)
+:Sending Touch (ACTION_DOWN): 0:(447.0,571.0)
+:Sending Touch (ACTION_UP): 0:(440.04376,560.74457)
+:Sending Touch (ACTION_DOWN): 0:(520.0,1084.0)
+:Sending Touch (ACTION_UP): 0:(519.7529,1086.9369)
+:Sending Touch (ACTION_DOWN): 0:(843.0,1371.0)
+    //[calendar_time:2017-12-08 21:13:09.262  system_uptime:620025]
+    // Sending event #300
+:Sending Touch (ACTION_UP): 0:(911.65704,1391.1154)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(630.0,1553.0)
+:Sending Touch (ACTION_UP): 0:(626.3614,1533.5315)
+:Sending Touch (ACTION_DOWN): 0:(477.0,854.0)
+:Sending Touch (ACTION_UP): 0:(477.10968,858.57196)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(973.0,1629.0)
+:Sending Touch (ACTION_UP): 0:(967.0877,1630.2399)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.laioffer.eventreporter/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.laioffer.eventreporter/.MainActivity } in package com.laioffer.eventreporter
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(841.0,1294.0)
+:Sending Touch (ACTION_UP): 0:(771.85645,1323.7948)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.laioffer.eventreporter/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.laioffer.eventreporter/.MainActivity } in package com.laioffer.eventreporter
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+    //[calendar_time:2017-12-08 21:13:09.782  system_uptime:620544]
+    // Sending event #400
+:Sending Touch (ACTION_DOWN): 0:(40.0,1447.0)
+:Sending Touch (ACTION_UP): 0:(30.57835,1448.8367)
+:Sending Touch (ACTION_DOWN): 0:(723.0,1142.0)
+:Sending Touch (ACTION_UP): 0:(720.9348,1137.2749)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1029.0,920.0)
+:Sending Touch (ACTION_UP): 0:(1038.1998,971.54297)
+:Sending Touch (ACTION_DOWN): 0:(965.0,1087.0)
+:Sending Touch (ACTION_UP): 0:(981.49854,1075.026)
+:Sending Touch (ACTION_DOWN): 0:(1018.0,530.0)
+:Sending Touch (ACTION_UP): 0:(1042.9956,510.76184)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(974.0,475.0)
+:Sending Touch (ACTION_UP): 0:(982.80676,445.5331)
+:Sending Touch (ACTION_DOWN): 0:(401.0,204.0)
+:Sending Touch (ACTION_UP): 0:(390.83014,223.46053)
+:Sending Touch (ACTION_DOWN): 0:(226.0,1409.0)
+:Sending Touch (ACTION_UP): 0:(235.87296,1404.9801)
+:Sending Touch (ACTION_DOWN): 0:(355.0,123.0)
+:Sending Touch (ACTION_UP): 0:(285.14722,151.91519)
+:Sending Touch (ACTION_DOWN): 0:(676.0,613.0)
+:Sending Touch (ACTION_UP): 0:(675.8162,606.81866)
+:Sending Touch (ACTION_DOWN): 0:(445.0,899.0)
+:Sending Touch (ACTION_UP): 0:(453.74957,898.742)
+Events injected: 500
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=0 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=4814ms (0ms mobile, 0ms wifi, 4814ms not connected)
+// Monkey finished
